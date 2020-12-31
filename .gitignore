@@ -1,5 +1,1 @@
 node_modules
-.DS_Store
-app/dist
-app/src
-app/package*
