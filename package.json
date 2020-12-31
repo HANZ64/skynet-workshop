@@ -2,7 +2,7 @@
   "name": "skynet-workshop",
   "version": "1.0.0",
   "description": "This repo is a workshop aimed at onboarding developers onto Skynet.",
-  "private": true,
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
